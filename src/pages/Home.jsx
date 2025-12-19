@@ -6,6 +6,8 @@ import Testimonials from "../components/Testimonials";
 import FAQ from "../components/FAQ";
 import CTA from "../components/CTA";
 import Footer from "../components/Footer";
+import Waitlist from "../components/Waitlist";
+import MentorsCTA from "../components/MentorsCTA";
 
 export default function Home() {
   return (
@@ -16,6 +18,8 @@ export default function Home() {
       <HowItWorks />
       <Testimonials />
       <FAQ />
+      <MentorsCTA />
+      <Waitlist />
       <CTA />
       <Footer />
     </>
