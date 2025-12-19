@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="min-h-screen flex items-center justify-center bg-slate-950 text-white pt-16">
+    <section className="min-h-screen flex items-center justify-center bg-slate-950 text-white pt-16 fade-in">
       <div className="max-w-4xl text-center px-6">
         <h1 className="text-4xl md:text-6xl font-bold leading-tight">
           Learn with <span className="text-indigo-400">direction</span>.<br />

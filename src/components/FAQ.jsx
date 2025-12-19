@@ -23,7 +23,7 @@ const faqs = [
 
 export default function FAQ() {
   return (
-    <section className="bg-slate-900 py-24 text-white">
+    <section className="bg-slate-900 py-24 text-white fade-in">
       <div className="max-w-4xl mx-auto px-6">
         <h2 className="text-3xl font-bold text-center">
           Frequently Asked <span className="text-indigo-400">Questions</span>

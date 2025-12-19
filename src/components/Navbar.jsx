@@ -1,6 +1,6 @@
 export default function Navbar() {
   return (
-    <nav className="fixed top-0 w-full z-50 bg-slate-950/80 backdrop-blur border-b border-slate-800">
+    <nav className="fixed top-0 w-full z-50 bg-slate-950/80 backdrop-blur border-b border-slate-800 fade-in">
       <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
         <div className="text-xl font-bold text-white">
           Skill<span className="text-indigo-400">Menta</span>

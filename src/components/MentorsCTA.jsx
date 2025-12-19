@@ -1,6 +1,6 @@
 export default function MentorsCTA() {
   return (
-    <section className="bg-slate-900 py-24 text-white">
+    <section className="bg-slate-900 py-24 text-white fade-in">
       <div className="max-w-6xl mx-auto px-6">
         <div className="bg-slate-950 border border-slate-800 rounded-2xl p-10 md:p-16 flex flex-col md:flex-row items-center justify-between gap-8">
           <div className="max-w-xl">

@@ -21,7 +21,7 @@ const testimonials = [
 
 export default function Testimonials() {
   return (
-    <section className="bg-slate-950 py-24 text-white">
+    <section className="bg-slate-950 py-24 text-white fade-in">
       <div className="max-w-7xl mx-auto px-6">
         <h2 className="text-3xl font-bold text-center">
           What People <span className="text-indigo-400">Say</span>
