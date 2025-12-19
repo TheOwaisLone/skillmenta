@@ -12,6 +12,10 @@ export default function Hero() {
           mentorship and structured learning paths — without confusion or wasted
           effort.
         </p>
+        <p className="mt-6 text-lg text-slate-400">
+          We provide project-based technical training and internships for
+          college students, focused on real-world skills.
+        </p>
 
         <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
           <button className="bg-indigo-500 hover:bg-indigo-600 px-6 py-3 rounded-lg font-medium">
