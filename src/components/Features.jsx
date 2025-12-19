@@ -22,7 +22,7 @@ export default function Features() {
     <section className="bg-slate-900 py-24 text-white fade-in">
       <div className="max-w-7xl mx-auto px-6">
         <h2 className="text-3xl font-bold text-center">
-          Why Skill<span className="text-indigo-400">Menta</span>?
+          Why Choose <span className="text-indigo-400">SkillMenta</span>?
         </h2>
 
         <div className="mt-16 grid gap-8 md:grid-cols-2 lg:grid-cols-4">

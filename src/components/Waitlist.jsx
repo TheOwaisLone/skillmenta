@@ -7,7 +7,7 @@ export default function Waitlist() {
         </h2>
 
         <p className="mt-4 text-slate-400 max-w-xl mx-auto">
-          We’re building the backend right now. Email-based early access is
+          We're building the backend right now. Email-based early access is
           coming soon.
         </p>
 

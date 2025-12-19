@@ -25,9 +25,7 @@ export default function FAQ() {
   return (
     <section className="bg-slate-900 py-24 text-white fade-in">
       <div className="max-w-4xl mx-auto px-6">
-        <h2 className="text-3xl font-bold text-center">
-          Frequently Asked <span className="text-indigo-400">Questions</span>
-        </h2>
+        <h2 className="text-3xl font-bold text-center">SkillMenta FAQs</h2>
 
         <div className="mt-16 space-y-6">
           {faqs.map((item, i) => (

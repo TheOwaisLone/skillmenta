@@ -24,7 +24,7 @@ export default function Testimonials() {
     <section className="bg-slate-950 py-24 text-white fade-in">
       <div className="max-w-7xl mx-auto px-6">
         <h2 className="text-3xl font-bold text-center">
-          What People <span className="text-indigo-400">Say</span>
+          Trusted by Learners & Professionals
         </h2>
 
         <p className="mt-4 text-center text-slate-400 max-w-2xl mx-auto">
